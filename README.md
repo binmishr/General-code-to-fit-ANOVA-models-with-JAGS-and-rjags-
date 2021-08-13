@@ -1,0 +1,1 @@
+# General-code-to-fit-ANOVA-models-with-JAGS-and-rjags-
